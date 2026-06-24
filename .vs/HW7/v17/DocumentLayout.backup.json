@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4706239D-B2A6-49CF-ABE7-4330F8CF5AD3}|HW7\\HW7.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\hw7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4706239D-B2A6-49CF-ABE7-4330F8CF5AD3}|HW7\\HW7.csproj|solutionrelative:hw7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4706239D-B2A6-49CF-ABE7-4330F8CF5AD3}|HW7\\HW7.csproj|C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\hw7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4706239D-B2A6-49CF-ABE7-4330F8CF5AD3}|HW7\\HW7.csproj|solutionrelative:hw7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A47FCD-E368-4C2D-A87B-53F3F23FBD75}|SpreadSheetTests\\SpreadSheetTests.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheettests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A47FCD-E368-4C2D-A87B-53F3F23FBD75}|SpreadSheetTests\\SpreadSheetTests.csproj|solutionrelative:spreadsheettests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\operatornodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\operatornodefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\expressiontree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\expressiontree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\multiplicationoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\multiplicationoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\subtractionoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\subtractionoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\additionoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\additionoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\divisionoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\divisionoperatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\operatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\operatornode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\newcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\newcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\variablenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\variablenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\colorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\colorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\spreadsheetengine\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C20AA-BF31-4EAA-97AD-48F0F8FA6BAB}|SpreadsheetEngine\\SpreadsheetEngine.csproj|solutionrelative:spreadsheetengine\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\constantnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\constantnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|c:\\users\\latitude\\desktop\\2025-2026\\fall\\cpts321-edwin_bucio-hws\\hw7\\expressiontreeengine\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57DE15B-A976-4CE3-806D-7F68503AEA57}|ExpressionTreeEngine\\ExpressionTreeEngine.csproj|solutionrelative:expressiontreeengine\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\Cell.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\Cell.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\Cell.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:37:32.178Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpreadSheet.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\SpreadSheet.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\SpreadSheet.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\SpreadSheet.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\SpreadSheet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:39:46.433Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\Node.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\Node.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\Node.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:26:02.797Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConstantNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\ConstantNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\ConstantNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\ConstantNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\ConstantNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:26:34.412Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VariableNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\VariableNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\VariableNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\VariableNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\VariableNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:27:14.986Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperatorNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\OperatorNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\OperatorNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\OperatorNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\OperatorNode.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA7wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:28:04.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdditionOperatorNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\AdditionOperatorNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\AdditionOperatorNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\AdditionOperatorNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\AdditionOperatorNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:28:36.415Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubtractionOperatorNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\SubtractionOperatorNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\SubtractionOperatorNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\SubtractionOperatorNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\SubtractionOperatorNode.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:29:07.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpressionTree.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\ExpressionTree.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\ExpressionTree.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\ExpressionTree.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\ExpressionTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:24:29.851Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\HW7\\Form1.cs",
+              "RelativeDocumentMoniker": "HW7\\Form1.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\HW7\\Form1.cs",
+              "RelativeToolTip": "HW7\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:32:14.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ColorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\ColorCommand.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\ColorCommand.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\ColorCommand.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\ColorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T01:47:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TextCommand.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\TextCommand.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\TextCommand.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\TextCommand.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\TextCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:37:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\Command.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\Command.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\Command.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:31:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\HW7\\Form1.cs",
+              "RelativeDocumentMoniker": "HW7\\Form1.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\cpts321-edwin_bucio-hws\\HW7\\HW7\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\cpts321-edwin_bucio-hws\\HW7\\HW7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:08:19.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadSheetTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SpreadSheetTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadSheetTests\\UnitTest1.cs",
+              "RelativeToolTip": "SpreadSheetTests\\UnitTest1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:57:45.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewCell.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\NewCell.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\NewCell.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\NewCell.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\NewCell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:38:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperatorNodeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\OperatorNodeFactory.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\OperatorNodeFactory.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\OperatorNodeFactory.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\OperatorNodeFactory.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:30:46.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiplicationOperatorNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\MultiplicationOperatorNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\MultiplicationOperatorNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\MultiplicationOperatorNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\MultiplicationOperatorNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:30:05.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DivisionOperatorNode.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\DivisionOperatorNode.cs",
+              "RelativeDocumentMoniker": "ExpressionTreeEngine\\DivisionOperatorNode.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\ExpressionTreeEngine\\DivisionOperatorNode.cs",
+              "RelativeToolTip": "ExpressionTreeEngine\\DivisionOperatorNode.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:29:35.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\Class1.cs",
+              "RelativeDocumentMoniker": "SpreadsheetEngine\\Class1.cs",
+              "ToolTip": "C:\\Users\\latitude\\Desktop\\2025-2026\\Fall\\cpts321-edwin_bucio-hws\\HW7\\SpreadsheetEngine\\Class1.cs",
+              "RelativeToolTip": "SpreadsheetEngine\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:34:57.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
