@@ -34,7 +34,17 @@ git clone [https://github.com/edbucio24/spreadsheet-application.git](https://git
 
 Navigate to the solution directory:
 ```bash
-cd spreadsheet-application/Solution
+cd spreadsheet-application
+```
+
+Restore dependencies and run the application:
+```bash
+dotnet run --project SpreadsheetApp
+```
+
+Run unit tests:
+```bash
+dotnet test SpreadsheetSheetTests
 ```
 
 
