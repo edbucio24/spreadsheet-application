@@ -26,3 +26,9 @@ This application serves as a practical implementation of several advanced progra
 ### Prerequisites
 * **.NET 8.0 SDK** or later
 * Visual Studio 2022 (with the .NET Desktop Development workload installed)
+
+Clone the repository:
+```bash
+git clone [https://github.com/edbucio24/spreadsheet-application.git](https://github.com/edbucio24/spreadsheet-application.git)
+```
+
