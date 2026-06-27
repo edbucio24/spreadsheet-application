@@ -32,3 +32,10 @@ Clone the repository:
 git clone [https://github.com/edbucio24/spreadsheet-application.git](https://github.com/edbucio24/spreadsheet-application.git)
 ```
 
+Navigate to the solution directory:
+```bash
+cd spreadsheet-application/Solution
+```
+
+
+
