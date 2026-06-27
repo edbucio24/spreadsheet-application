@@ -2,6 +2,8 @@
 
 This project is a desktop-based spreadsheet application built in C# that resembles the functionality of Microsoft Excel. This application demonstrates event-driven programming, basica formula parsing, and object oriented programming.
 
+<img width="635" height="390" alt="image" src="https://github.com/user-attachments/assets/a5afaefc-9fa3-451e-bdfd-a496de09c3d6" />
+
 # Core Architecture & Software Engineering Patterns
 
 This application serves as a practical implementation of several advanced programming techniques:
