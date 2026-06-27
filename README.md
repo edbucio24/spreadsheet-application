@@ -20,3 +20,9 @@ This application serves as a practical implementation of several advanced progra
 * **Smart Error Detection:** Continuously validates cell dependency chains to intercept and flag structural calculation risks, including uninitialized variables, invalid cell names, self-references, and arbitrary-length circular reference paths.
 * **Robust Undo/Redo Engine:** Implements the Command Design Pattern backed by dual execution stacks to let users toggle back and forth through text edits and cell color formatting changes via standard desktop hotkeys (`Ctrl + Z` and `Ctrl + Shift + Z`).
 * **XML File Serialization:** Features resilient saving and loading engines via `Ctrl + S` and `Ctrl + O` that serialize spreadsheet states into standard XML files while automatically discarding corrupted formatting, irrelevant metadata, or scrambled tag structures safely.
+
+* # Getting Started
+
+### Prerequisites
+* **.NET 8.0 SDK** or later
+* Visual Studio 2022 (with the .NET Desktop Development workload installed)
