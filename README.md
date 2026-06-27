@@ -29,7 +29,7 @@ This application serves as a practical implementation of several advanced progra
 
 Clone the repository:
 ```bash
-git clone [https://github.com/edbucio24/spreadsheet-application.git](https://github.com/edbucio24/spreadsheet-application.git)
+git clone https://github.com/edbucio24/spreadsheet-application.git
 ```
 
 Navigate to the solution directory:
