@@ -13,3 +13,10 @@ This application serves as a practical implementation of several advanced progra
 * **Unit Testing:** Built with **NUnit** to ensure complete regression coverage.
 
 # Features
+* **Advanced Equation Engine:** Evaluates equations starting with `=` by converting standard mathematical infix text into postfix notation using the Shunting-yard algorithm, creating and executing a binary expression tree that supports variable cell references (e.g., `=A1 * 28`).
+* **Comprehensive Operator Support:** Built-in calculation support includes addition (`+`), subtraction (`-`), multiplication (`*`), division (`/`), and exponentiation (`^`) handled natively through modular node evaluation math classes.
+* **Extensible Operator System:** Uses C# Reflection at runtime to inspect the project assembly and dynamically load isolated mathematical operator classes inheriting from a base `OperatorNode`, facilitating the seamless introduction of new functions without rewriting core logic.
+* **Custom Cell Color Formatting:** Enables users to change the background colors of any highlighted cell selection dynamically using either the top menu options or an intuitive right-click context menu.
+* **Smart Error Detection:** Continuously validates cell dependency chains to intercept and flag structural calculation risks, including uninitialized variables, invalid cell names, self-references, and arbitrary-length circular reference paths.
+* **Robust Undo/Redo Engine:** Implements the Command Design Pattern backed by dual execution stacks to let users toggle back and forth through text edits and cell color formatting changes via standard desktop hotkeys (`Ctrl + Z` and `Ctrl + Shift + Z`).
+* **XML File Serialization:** Features resilient saving and loading engines via `Ctrl + S` and `Ctrl + O` that serialize spreadsheet states into standard XML files while automatically discarding corrupted formatting, irrelevant metadata, or scrambled tag structures safely.
